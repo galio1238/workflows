@@ -22,20 +22,6 @@ inputs:
     sd:preview:
       position: 1
 
-  indices_folder:
-    type: Directory
-    label: "Cell Ranger Reference Sample"
-    doc: |
-      Any "Cell Ranger Reference Sample" that
-      builds a reference genome package of a
-      selected species for quantifying gene
-      expression and chromatin accessibility.
-      This sample can be obtained from "Cell
-      Ranger Reference (RNA, ATAC, RNA+ATAC)"
-      pipeline.
-    "sd:upstreamSource": "genome_indices/arc_indices_folder"
-    "sd:localLabel": true
-
   annotation_gtf_file:
     type: File
     "sd:upstreamSource": "genome_indices/genome_indices/annotation_gtf"
