@@ -17,7 +17,7 @@ requirements:
 inputs:
 
   alias:
-    type: string
+    type: string?
     label: "Analysis name"
     sd:preview:
       position: 1
