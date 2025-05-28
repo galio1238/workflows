@@ -3,6 +3,7 @@ class: Workflow
 
 
 requirements:
+'sd:version': 1
 - class: SubworkflowFeatureRequirement
 - class: StepInputExpressionRequirement
 - class: InlineJavascriptRequirement

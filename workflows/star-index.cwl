@@ -7,6 +7,7 @@ requirements:
   - class: ScatterFeatureRequirement
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
+'sd:version': 1
 
 
 'sd:metadata':

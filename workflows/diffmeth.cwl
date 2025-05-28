@@ -5,6 +5,7 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
+'sd:version': 1
 
 'sd:serviceTag': "Analysis"
 

@@ -10,6 +10,7 @@ requirements:
     - var get_root = function(basename) {
           return basename.split('.').slice(0,1).join('.');
       };
+'sd:version': 1
 
 'sd:metadata':
 - "../metadata/rnaseq-header.cwl"

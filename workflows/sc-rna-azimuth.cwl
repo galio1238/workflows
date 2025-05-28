@@ -24,6 +24,7 @@ requirements:
             return null;
           }
       };
+'sd:version': 1
 
 
 "sd:upstream":

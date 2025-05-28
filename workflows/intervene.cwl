@@ -8,6 +8,7 @@ requirements:
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
   - class: ScatterFeatureRequirement
+'sd:version': 1
 
 
 'sd:upstream':

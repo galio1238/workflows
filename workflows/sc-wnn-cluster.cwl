@@ -39,6 +39,7 @@ requirements:
               return [parseFloat(line)];
           }
       };
+'sd:version': 1
 
 
 "sd:upstream":

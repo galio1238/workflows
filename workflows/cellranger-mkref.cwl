@@ -7,6 +7,7 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
+'sd:version': 1
 
 
 "sd:upstream":

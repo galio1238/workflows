@@ -24,6 +24,7 @@ requirements:
             return prefix + "wsnn_res." + resolution;
           }
       };
+'sd:version': 1
 
 
 "sd:upstream":

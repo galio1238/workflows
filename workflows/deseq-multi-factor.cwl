@@ -15,6 +15,7 @@ requirements:
           let splitted_line = line?line.split(/[\s,]+/).filter(get_unique):null;
           return (splitted_line && !!splitted_line.length)?splitted_line:null;
       };
+'sd:version': 1
 
 
 'sd:upstream':

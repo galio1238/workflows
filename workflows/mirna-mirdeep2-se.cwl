@@ -5,6 +5,7 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: SubworkflowFeatureRequirement
+'sd:version': 1
 
 
 'sd:upstream':
