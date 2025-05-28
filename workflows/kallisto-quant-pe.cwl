@@ -4,7 +4,6 @@ class: Workflow
 
 requirements:
   - class: StepInputExpressionRequirement
-'sd:version': 1
 
 'sd:metadata':
   - "../metadata/rnaseq-header.cwl"
@@ -12,6 +11,8 @@ requirements:
 'sd:upstream':
   kallisto_index: "kallisto-index.cwl"
 
+
+'sd:version': 1
 
 inputs: 
 

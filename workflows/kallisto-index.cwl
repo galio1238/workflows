@@ -4,8 +4,9 @@ class: Workflow
 
 requirements:
   - class: StepInputExpressionRequirement
-'sd:version': 1
 
+
+'sd:version': 1
 
 inputs:
 

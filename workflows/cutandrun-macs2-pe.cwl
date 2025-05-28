@@ -12,7 +12,6 @@ requirements:
     - var get_root = function(basename) {
           return basename.split('.').slice(0,1).join('.');
       };
-'sd:version': 1
   
 
 'sd:upstream':
@@ -20,6 +19,8 @@ requirements:
   genome_indices_spikein: "genome-indices.cwl"
   control_file: "cutandrun-macs2-pe.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

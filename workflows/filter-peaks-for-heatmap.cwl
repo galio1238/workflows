@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -22,6 +21,8 @@ requirements:
     - "cutandrun-seacr-pe.cwl"
     - "diffbind.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

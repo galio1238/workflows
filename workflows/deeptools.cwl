@@ -10,7 +10,6 @@ requirements:
     - var get_root = function(basename) {
           return basename.split('.').slice(0,1).join('.');
       };
-'sd:version': 1
 
 
 'sd:upstream':
@@ -30,6 +29,8 @@ requirements:
   - "filter-peaks-by-overlap.cwl"
   - "genelists-sets.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

@@ -39,7 +39,6 @@ requirements:
               return [parseFloat(line)];
           }
       };
-'sd:version': 1
 
 
 "sd:upstream":
@@ -50,6 +49,8 @@ requirements:
   - "sc-atac-reduce.cwl"
   - "sc-rna-azimuth.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

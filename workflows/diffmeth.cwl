@@ -5,7 +5,6 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
-'sd:version': 1
 
 'sd:serviceTag': "Analysis"
 
@@ -19,6 +18,8 @@ requirements:
   genome_indices:
    - "bismark-index.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

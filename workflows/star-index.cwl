@@ -7,12 +7,13 @@ requirements:
   - class: ScatterFeatureRequirement
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
-'sd:version': 1
 
 
 'sd:metadata':
   - "../metadata/indices-header.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

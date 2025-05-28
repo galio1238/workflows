@@ -4,12 +4,13 @@ class: Workflow
 
 requirements:
   - class: StepInputExpressionRequirement
-'sd:version': 1
 
 
 'sd:upstream':
   genome_indices: "genome-indices.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

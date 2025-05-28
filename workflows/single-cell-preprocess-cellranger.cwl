@@ -7,13 +7,14 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 "sd:upstream":
   genome_indices:
     - "cellranger-mkref.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

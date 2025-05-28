@@ -3,7 +3,6 @@ class: Workflow
 
 
 requirements:
-'sd:version': 1
 - class: SubworkflowFeatureRequirement
 - class: StepInputExpressionRequirement
 - class: InlineJavascriptRequirement
@@ -15,6 +14,8 @@ requirements:
   - "single-cell-preprocess-cellranger.cwl"
   - "cellranger-multi.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

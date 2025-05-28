@@ -6,7 +6,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -21,6 +20,8 @@ requirements:
   genome_indices:
     - "genome-indices.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

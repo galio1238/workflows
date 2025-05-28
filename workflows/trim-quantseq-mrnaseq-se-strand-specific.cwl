@@ -3,7 +3,6 @@ class: Workflow
 
 
 requirements:
-'sd:version': 1
 - class: SubworkflowFeatureRequirement
 - class: StepInputExpressionRequirement
 - class: MultipleInputFeatureRequirement
@@ -20,6 +19,8 @@ requirements:
 'sd:upstream':
   genome_indices: "genome-indices.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

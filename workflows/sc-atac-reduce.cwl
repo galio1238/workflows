@@ -15,7 +15,6 @@ requirements:
           let splitted_line = line?line.split(/[\s,]+/).filter(get_unique):null;
           return (splitted_line && !!splitted_line.length)?splitted_line:null;
       };
-'sd:version': 1
 
 "sd:upstream":
   sc_tools_sample:
@@ -25,6 +24,8 @@ requirements:
   - "sc-multiome-filter.cwl"
   - "sc-rna-azimuth.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

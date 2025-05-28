@@ -5,13 +5,14 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: SubworkflowFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
   alignment_index: "bwa-index.cwl"
   genome_indices: "genome-indices.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

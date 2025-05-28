@@ -8,7 +8,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: MultipleInputFeatureRequirement
   - class: InlineJavascriptRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -19,6 +18,8 @@ requirements:
 'sd:metadata':
   - "../metadata/chipseq-header.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

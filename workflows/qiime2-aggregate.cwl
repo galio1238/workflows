@@ -5,13 +5,14 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: SubworkflowFeatureRequirement
-'sd:version': 1
 
 'sd:serviceTag': "Analysis"
 
 'sd:upstream':
   qiime2_sample_pe: "qiime2-sample-pe.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

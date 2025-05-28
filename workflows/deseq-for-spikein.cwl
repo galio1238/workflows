@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -16,6 +15,8 @@ requirements:
   rnaseq_cond_2:
     - "trim-rnaseq-pe-ercc.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

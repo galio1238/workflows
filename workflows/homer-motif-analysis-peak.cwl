@@ -6,7 +6,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -26,6 +25,8 @@ requirements:
     - "trim-chipseq-pe.cwl"
     - "trim-atacseq-se.cwl"
     - "trim-atacseq-pe.cwl"
+
+'sd:version': 1
 
 inputs:
 

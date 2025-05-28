@@ -24,7 +24,6 @@ requirements:
             return null;
           }
       };
-'sd:version': 1
 
 
 "sd:upstream":
@@ -44,6 +43,8 @@ requirements:
   sc_reference_model:
   - "sc-ctype-assign.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

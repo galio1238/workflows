@@ -8,7 +8,6 @@ requirements:
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
   - class: ScatterFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -17,6 +16,8 @@ requirements:
   genome_indices:
   - "genome-indices.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

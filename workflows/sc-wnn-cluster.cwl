@@ -39,7 +39,6 @@ requirements:
               return [parseFloat(line)];
           }
       };
-'sd:version': 1
 
 
 "sd:upstream":
@@ -54,6 +53,8 @@ requirements:
   - "cellranger-arc-count.cwl"
   - "cellranger-arc-aggr.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

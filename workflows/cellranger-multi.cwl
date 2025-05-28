@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 "sd:upstream":
@@ -16,6 +15,8 @@ requirements:
   vdj_indices:
   - "cellranger-mkvdjref.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

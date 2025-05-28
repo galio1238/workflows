@@ -24,7 +24,6 @@ requirements:
             return prefix + "wsnn_res." + resolution;
           }
       };
-'sd:version': 1
 
 
 "sd:upstream":
@@ -39,6 +38,8 @@ requirements:
   - "cellranger-atac-count.cwl"
   - "cellranger-atac-aggr.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -31,6 +30,8 @@ requirements:
     - "trim-chipseq-pe.cwl"
     - "diffbind.cwl"
     - "filter-peaks-for-heatmap.cwl"
+
+'sd:version': 1
 
 inputs:
 

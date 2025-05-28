@@ -3,7 +3,6 @@ class: Workflow
 
 
 requirements:
-'sd:version': 1
 - class: SubworkflowFeatureRequirement
 - class: StepInputExpressionRequirement
 - class: MultipleInputFeatureRequirement
@@ -17,6 +16,8 @@ requirements:
         return (splitted_line && !!splitted_line.length)?splitted_line:null;
     };
 
+
+'sd:version': 1
 
 inputs:
 

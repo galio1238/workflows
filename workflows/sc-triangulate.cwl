@@ -21,7 +21,6 @@ requirements:
             return Array.from(split_numbers(resolution), r => "wsnn_res." + r);
           }
       };
-'sd:version': 1
 
 
 "sd:upstream":
@@ -31,6 +30,8 @@ requirements:
   - "sc-wnn-cluster.cwl"
   - "sc-rna-azimuth.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

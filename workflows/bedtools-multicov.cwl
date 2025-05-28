@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -29,6 +28,8 @@ requirements:
   - "trim-rnaseq-pe-smarter-dutp.cwl"
   - "trim-quantseq-mrnaseq-se-strand-specific.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

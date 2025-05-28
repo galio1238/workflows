@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -17,6 +16,8 @@ requirements:
   genelists_for_B:
     - "filter-deseq-for-heatmap.cwl"
     - "filter-diffbind-for-heatmap.cwl"
+
+'sd:version': 1
 
 inputs:
 

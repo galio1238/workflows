@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -32,6 +31,8 @@ requirements:
     - "kallisto-quant-pe.cwl"
     - "trim-rnaseq-pe-ercc.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

@@ -5,12 +5,13 @@ class: Workflow
 requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
-'sd:version': 1
 
 
 'sd:upstream':
   database: "kraken2-databases.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

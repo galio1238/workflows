@@ -7,7 +7,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: MultipleInputFeatureRequirement
   - class: InlineJavascriptRequirement
-'sd:version': 1
 
 
 "sd:upstream":
@@ -20,6 +19,8 @@ requirements:
   - "cellranger-multi.cwl"
   - "cellranger-aggr.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

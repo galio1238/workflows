@@ -6,7 +6,6 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
@@ -23,6 +22,8 @@ requirements:
     - "filter-peaks-by-overlap.cwl"
     - "genelists-sets.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

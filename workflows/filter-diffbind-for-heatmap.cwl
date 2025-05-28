@@ -7,12 +7,13 @@ requirements:
   - class: StepInputExpressionRequirement
   - class: InlineJavascriptRequirement
   - class: MultipleInputFeatureRequirement
-'sd:version': 1
 
 
 'sd:upstream':
   sample_to_filter: "diffbind.cwl"
 
+
+'sd:version': 1
 
 inputs:
 

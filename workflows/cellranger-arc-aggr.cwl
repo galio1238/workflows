@@ -3,7 +3,6 @@ class: Workflow
 
 
 requirements:
-'sd:version': 1
 - class: SubworkflowFeatureRequirement
 - class: StepInputExpressionRequirement
 - class: InlineJavascriptRequirement
@@ -16,6 +15,8 @@ requirements:
   genome_indices:
   - "cellranger-mkref.cwl"
 
+
+'sd:version': 1
 
 inputs:
 
